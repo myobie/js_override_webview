@@ -1,0 +1,1 @@
+This project loads google.com into a webview, then lets you inject javascript into that webview by clicking a button. The included injection.js file records what the user searched for and sends it back to the cocoa application.
